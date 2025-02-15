@@ -1,0 +1,19 @@
+*{
+    background-image: url(sexxxxxxx1.avif);
+    background-attachment: fixed;
+}
+
+header{
+    color: rgb(17, 20, 241);
+    text-align: center;
+}
+h2 {
+    color: red;
+    text-decoration: red;
+}
+footer {   
+   background-color: rgb(32, 22, 9);
+   padding: 80px;
+   text-align: center;
+}   
+
